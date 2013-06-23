@@ -1,0 +1,3 @@
+I wrote this application after reading Neal Stephenson's Cryptonomicon for the second time.  I thought the scene where Randy Waterhouse needed to read some text in a file on his laptop without displaying it on the screen was pretty cool and the solution was clever.  He writes some code that converts the text to morse code that is displayed by blinking the num lock indicator.  I thought it would be fun to do myself. 
+
+I wrote this in VB.Net several years ago and recently converted it to C#.  I will tidy up the code but it works as is.
